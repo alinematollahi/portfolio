@@ -6,7 +6,7 @@
 
 This project is the art store website and it's content management system.
 
-I utilized some technologies like `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL` and `AJAX`.
+I utilized some technologies like `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Git` and `AJAX`.
 
 Due to utilize AJAX, and SPA design, users have instant access to all parts without refreshing the page.
 
@@ -20,7 +20,7 @@ Due to utilize AJAX, and SPA design, users have instant access to all parts with
 
 This project is the Automatic Sliding Door Application to simulation and calculate prices.
 
-I utilized some technologies like `HTML`, `CSS`, `JavaScript` and `Angular.js`
+I utilized some technologies like `HTML`, `CSS`, `JavaScript`, `Git` and `Angular.js`
 
 #### Access to Repository:
 <a href="https://github.com/alinematollahi/Sliding-Door-Application"> Sliding-Door-Application </a>
