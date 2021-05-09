@@ -9,7 +9,7 @@ This is a React app project designed for selling automatic gate openers.
 I utilized some technologies like HTML, CSS, JavaScript, React, Redux , Node.js , Bootstrap and Git.
 
 #### Access to Repository:
-<a href="https://github.com/alinematollahi/Automatic-Gate-Opener-Website"> atiart.dk </a>
+<a href="https://github.com/alinematollahi/Automatic-Gate-Opener-Website"> Automatic-Gate-Opener-Website </a>
 
 <br/>
 <br/>
