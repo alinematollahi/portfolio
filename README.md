@@ -10,8 +10,7 @@ I utilized some technologies like `HTML`, `CSS`, `JavaScript`, `React.js`, `Type
 
 #### Project Link : <a href="http://myaccounting2022.ir/">myaccounting2022.ir</a>
 
-#### Access to Repository:
-<a href="https://github.com/alinematollahi/atiart.dk"> atiart.dk </a>
+#### Access to Repository: <a href="https://github.com/alinematollahi/atiart.dk"> atiart.dk </a>
 
 <br/>
 <br/>
@@ -24,8 +23,7 @@ I utilized some technologies like `HTML`, `CSS`, `JavaScript`, `React`, `Redux` 
 
 #### Project Link : <a href="https://autogates.herokuapp.com/">autogates.herokuapp.com </a>
 
-#### Access to Repository:
-<a href="https://github.com/alinematollahi/Automatic-Gate-Opener-Website"> Automatic-Gate-Opener-Website </a>
+#### Access to Repository: <a href="https://github.com/alinematollahi/Automatic-Gate-Opener-Website"> Automatic-Gate-Opener-Website </a>
 
 <br/>
 <br/>
@@ -41,8 +39,7 @@ Due to utilize AJAX, and SPA design, users have instant access to all parts with
 #### Project Link : <a href="https://atiart.herokuapp.com/">atiart.herokuapp.com </a>
 #### Admin Link : <a href="https://atiart.herokuapp.com/cms">atiart.herokuapp.com/cms </a>
 
-#### Access to Repository:
-<a href="https://github.com/alinematollahi/atiart.dk"> atiart.dk </a>
+#### Access to Repository: <a href="https://github.com/alinematollahi/atiart.dk"> atiart.dk </a>
 
 <br/>
 <br/>
@@ -55,5 +52,4 @@ I utilized some technologies like `HTML`, `CSS`, `JavaScript`, `Git` and `Angula
 
 #### Project Link : <a href="https://sliding-door-app.herokuapp.com/">sliding-door-app.herokuapp.com </a>
 
-#### Access to Repository:
-<a href="https://github.com/alinematollahi/Sliding-Door-Application"> Sliding-Door-Application </a>
+#### Access to Repository: <a href="https://github.com/alinematollahi/Sliding-Door-Application"> Sliding-Door-Application </a>
